@@ -1,0 +1,109 @@
+body {
+    background-color: rgb(246, 218, 254);
+    text-align: center;
+}
+
+h1 {
+    color: rgb(78, 12, 139);
+    font-size:80px ;
+    font-family: sans-serif;
+}
+img {
+    width: 320px;
+    height: 230px;
+}
+
+main {
+    background-color: blueviolet;
+    width: 1000px;
+    margin:32px auto ;
+    text-align: start;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+h2 {
+    color:white;
+    font-family: sans-serif;
+
+}
+p {
+    color: rgb(239, 233, 233);
+    font-family: sans-serif;
+    font-size: 23px;
+}
+span {
+    color: bold;
+    font-size: 25px;
+}
+
+ul {
+    list-style: none;
+    /* padding:0px 10px; */
+    font-family: sans-serif;
+    color: rgb(239, 233, 233);
+    text-align: start;
+    margin: 0px 0px 0px -30px;
+}
+
+li {
+    margin: 15px;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.hilite {
+    color: rgb(247, 201, 148);
+    border-left: 5px solid rgb(247, 201, 148);
+}
+
+ul h3 {
+    margin-left: 23px;
+}
+
+hr.rounded {
+  border-top: 8px solid #bbb;
+  border-radius: 5px;
+}
+
+h3 {
+    color: rgb(222, 215, 215);
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+section {
+    margin: 30px 20px;
+}
+
+h3 a {
+    text-decoration: none;
+    background-color: rgb(247, 201, 148);
+    color: rgb(78, 12, 139);
+    border-radius: 4px;
+    padding: 5px;
+
+}
+
+h3 a:hover {
+    background-color: rgb(78, 12, 139);
+    color: white;
+}
+
+#c {
+    color: rgb(222, 187, 232);
+}
+
+button {
+    color: black;
+    background-color: rgb(241, 229, 10);
+    border: none;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 25px;
+}
+
+button a {
+    text-decoration: none;
+    color: black;
+}
